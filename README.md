@@ -1,2 +1,0 @@
-# hopescope
-Boerigter Center App
