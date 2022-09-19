@@ -1,0 +1,18 @@
+@import "styles/colors.scss";
+.alumni-stories-list {
+  padding-bottom: 2rem;
+
+  .card-body {
+    padding: 2rem;
+
+    .buttons {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+    }
+  }
+
+  .hide-show-btn {
+    width: 3rem;
+  }
+}
